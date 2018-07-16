@@ -1,0 +1,15 @@
+#header{
+	
+	background-color:#CCC;
+	
+}
+
+
+.logo{
+	margin-top:5px;
+}
+.connectedSortable{
+	background-color:#CCC;
+	min-height:500px;
+	height:auto;
+}
